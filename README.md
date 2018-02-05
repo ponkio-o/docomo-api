@@ -1,2 +1,2 @@
 # docomoのAPIを使ったプログラム
-雑談対話APIで雑談をするプログラム
+[とりあえずdocomo雑談対話APIを使ってみる - Qiita](https://qiita.com/ponkio-o/items/df0d64677dcb4b7e8eb3)
